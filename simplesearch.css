@@ -40,3 +40,5 @@
 .search-row:last-child hr {
 	display: none;
 }
+
+.search-input {background: #e1e1e1;border: 1px solid #000;padding: 10px;border-radius: 5px;margin: 20px auto;}
